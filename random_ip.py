@@ -1,6 +1,6 @@
 # -*- coding=utf-8 -*-
 # 本脚由lilaiming编写，用于学习使用！
-# QQ:441314423
+# Email:essid@qq.com
 
 
 import random #导入random模块
